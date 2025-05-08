@@ -1,15 +1,5 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-// eslint-disable-next-line react/no-unescaped-entities
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-// eslint-disable-next-line @typescript-eslint/no-empty-object-type
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-// eslint-disable-next-line @typescript-eslint/no-empty-function
-// eslint-disable-next-line @typescript-eslint/no-empty-object-type
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-// eslint-disable-next-line @typescript-eslint/no-empty-object-type
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-
-
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable react/no-unescaped-entities */
 'use client';
 
 import Image from "next/image";
